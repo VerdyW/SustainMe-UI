@@ -1,6 +1,7 @@
 # SustainMe-UI
 
-CakeLand is a Point of Sale application created for Business Application Development Course Final Project at Bina Nusantara University. This project is created by a team of two with Java programming language using Eclipse IDE. The member is Willsen Andrian who coded the UI of the application with JavaGUI and me (Verdy Wahyudi) who coded the system, database using MySQL, and connecting the system with the database. The database is created first using XAmpp as a web server with MySQL and then the application created in Eclipse IDE using Java programming language. 
+This project is created by myself using SwiftUI in Xcode for learning purposes. SustainMe User Inteface design is created by myself for my assignment. This Swift UI project is one of the projects I use to learn Swift programming. The UI is created using ZStack, HStack, and VStack to organize the items inside the UI. There is 2 page that i have created using SwiftUI which are Sign In Page and Home Page. Sign In page is in LoginPage.swift file and Home Page is in ContentView.swift file
+
 
 Video of the Sign In Page prototype using SwiftUI
 https://drive.google.com/file/d/1dQMv4Or6GDRdnJhxoyyTpy6h1R1k4fWa/view?usp=sharing
