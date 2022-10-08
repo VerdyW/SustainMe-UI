@@ -8,3 +8,6 @@ https://drive.google.com/file/d/1dQMv4Or6GDRdnJhxoyyTpy6h1R1k4fWa/view?usp=shari
 
 Video of the Home Page prototype using SwiftUI
 https://drive.google.com/file/d/1Cs7nY0DCMjRY4XGiyxc12Egf9TMYyCj9/view?usp=sharing
+
+SustainMe Figma UI 
+https://www.figma.com/file/CIJ25tLR5g7jhwWli2X8ym/SustainMe?node-id=0%3A1
